@@ -3,4 +3,4 @@
 let nome = "henrique"// tem que sempre declarar 
 console.log("CBB Cursos")
 console.log(nome)
-console("Acorda! " + nome)
+console.log("Acorda! " + nome)
