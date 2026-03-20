@@ -4,3 +4,9 @@ do {
 } while (n < 10)
 
 console.log("Acabou")
+
+let count = 1
+do {
+    console.log(count)
+    count++
+} while (count <= 3)

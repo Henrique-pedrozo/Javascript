@@ -1,4 +1,4 @@
-let colocacao = 5
+let colocacao = 1
 
 switch (colocacao) {
     case 1:
