@@ -1,6 +1,3 @@
-let a = {x:1}
-let b = {b:2}
+let arr = [x => x * x, 10];
 
-let c = {...a,...b}
-
-console.log(c)
+console.log(arr[0](arr[1]));
